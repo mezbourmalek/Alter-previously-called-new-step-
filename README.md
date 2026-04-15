@@ -1,4 +1,4 @@
-Alter – Android Social Network for Habit Tracking and Addiction Recovery
+Alter – Android Social Network for Habit Tracking and Addiction Recovery ( pictures in the repport file)
 
 Alter (New Step) is a cloud native, partly serverless and architecture hybride android application developed in Java with Firebase and SQLite, combining habit tracking and social networking to help users overcome bad habits and build healthier routines through community support.
 
