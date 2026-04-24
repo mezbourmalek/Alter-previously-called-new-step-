@@ -1,3 +1,8 @@
+Ce projet est basé sur un repository existant, ou j’ai contribué de manière significative au développement de plusieurs fonctionnalités clés, notamment Développement du système de posts (publication, affichage, logique)
+Implémentation du chat et group chat
+Participation à la partie admin (gestion des utilisateurs / fonctionnalités)
+Intégration avec Firebase
+
 Alter – Android Social Network for Habit Tracking and Addiction Recovery ( pictures in the repport file)
 
 Alter (New Step) is a cloud native, partly serverless and architecture hybride android application developed in Java with Firebase and SQLite, combining habit tracking and social networking to help users overcome bad habits and build healthier routines through community support.
